@@ -21,3 +21,5 @@ I'm Sameer Khanal, a full stack developer with over 4 years of experience. Throu
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Go](https://img.shields.io/badge/Go?style=for-the-badge&logo=docker)
+
